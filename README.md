@@ -2,7 +2,7 @@
 
 This is a quick and dirty golang port of https://github.com/hauckwill/linconnect-server
 
-I made this to use LinConnect on MacOS X, however the code should work on Linux/Windows(growl) (not tested)
+I made this to use LinConnect on MacOS X, however the code might work on Linux/Windows(growl) (not tested)
 
 ## Installation
    go get github.com/rindvieh/linconnect-go
