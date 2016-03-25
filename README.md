@@ -19,6 +19,6 @@ Will create a default config at -conf path and start the service using the new c
 
 ## Usage
 
-  ./linconnect-go
-  ./linconnect-go -h
+  ./linconnect-go  
+  ./linconnect-go -h  
   ./LinConnect-go -conf myConfig.json
